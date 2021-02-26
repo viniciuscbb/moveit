@@ -26,7 +26,7 @@ This project was developed using the following technologies:
 
 ## 🔥 Preview
 
-[![Deploy with Vercel](https://vercel.com/button)](https://moveit-njbdaspm0-viniciuscbb.vercel.app/)
+[![Deploy with Vercel](https://vercel.com/button)](https://moveit-viniciuscbb.vercel.app/)
 
 ## 🚀 Getting started
 
@@ -46,7 +46,7 @@ $ yarn dev
 
 ## 💻 Project
 
-[Move.it](https://moveit-njbdaspm0-viniciuscbb.vercel.app/) came to remind you to exercise always! 💜 
+[Move.it](https://moveit-viniciuscbb.vercel.app/) came to remind you to exercise always! 💜 
 
 This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during February 22-28, 2021.
 
